@@ -1,0 +1,618 @@
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141125_2\SQL\bin\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141125_2\SQL\bin\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141125_2\SQL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141125_2\SQL\obj\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141125_2\SQL\obj\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141125_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141125_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141125_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141125_2\SQL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141125_2\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141125_2\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141125_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141125_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141125_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141125_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141125_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141125_2\SQL\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141125_2\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141125_2\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141203\SQL\bin\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141203\SQL\bin\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141203\SQL\obj\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141203\SQL\obj\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141203\SQL\bin\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141203\SQL\bin\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141203\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141203\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141203\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141203\SQL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141203\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141203\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141203\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141203\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141203\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141203\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141203\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141203\SQL\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141203\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141203\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141203\SQL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141203\SQL\obj\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141203\SQL\obj\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141203\SQL\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141203\SQL\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141205\SQL\bin\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141205\SQL\bin\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141205\SQL\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141205\SQL\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141205\SQL\obj\Debug\SQL.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141205\SQL\obj\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141205\SQL\obj\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141205\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141205\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141205\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141205\SQL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141205\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141205\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141205\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141205\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141205\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141205\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141205\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141205\SQL\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141205\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141205\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\SQL\bin\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\SQL\bin\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\SQL\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\SQL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\SQL\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\SQL\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\SQL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\SQL\obj\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\SQL\obj\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\SQL\bin\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\SQL\bin\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\SQL\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\SQL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\SQL\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\SQL\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\SQL\obj\Debug\SQL.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\SQL\obj\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\SQL\obj\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\SQL\bin\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\SQL\bin\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\SQL\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\SQL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\SQL\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\SQL\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\SQL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\SQL\obj\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\SQL\obj\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\SQL\bin\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\SQL\bin\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\SQL\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\SQL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\SQL\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\SQL\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\SQL\obj\Debug\SQL.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\SQL\obj\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\SQL\obj\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\SQL\bin\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\SQL\bin\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\SQL\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\SQL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\SQL\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\SQL\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\SQL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\SQL\obj\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\SQL\obj\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\SQL\bin\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\SQL\bin\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\SQL\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\SQL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\SQL\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\SQL\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\SQL\obj\Debug\SQL.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\SQL\obj\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\SQL\obj\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\SQL\bin\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\SQL\bin\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\SQL\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\SQL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\SQL\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\SQL\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\SQL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\SQL\obj\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\SQL\obj\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\SQL\bin\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\SQL\bin\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\SQL\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\SQL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\SQL\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\SQL\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\SQL\obj\Debug\SQL.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\SQL\obj\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\SQL\obj\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\SQL\bin\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\SQL\bin\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\SQL\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\SQL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\SQL\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\SQL\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\SQL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\SQL\obj\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\SQL\obj\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\SQL\bin\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\SQL\bin\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\SQL\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\SQL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\SQL\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\SQL\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\SQL\obj\Debug\SQL.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\SQL\obj\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\SQL\obj\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\SQL\bin\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\SQL\bin\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\SQL\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\SQL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\SQL\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\SQL\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\SQL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\SQL\obj\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\SQL\obj\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\SQL\bin\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\SQL\bin\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\SQL\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\SQL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\SQL\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\SQL\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\SQL\obj\Debug\SQL.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\SQL\obj\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\SQL\obj\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\SQL\bin\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\SQL\bin\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\SQL\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\SQL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\SQL\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\SQL\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\SQL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\SQL\obj\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\SQL\obj\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\SQL\bin\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\SQL\bin\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\SQL\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\SQL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\SQL\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\SQL\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\SQL\obj\Debug\SQL.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\SQL\obj\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\SQL\obj\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\SQL\bin\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\SQL\bin\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\SQL\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\SQL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\SQL\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\SQL\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\SQL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\SQL\obj\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\SQL\obj\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\SQL\bin\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\SQL\bin\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\SQL\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\SQL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\SQL\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\SQL\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\SQL\obj\Debug\SQL.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\SQL\obj\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\SQL\obj\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\SQL\bin\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\SQL\bin\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\SQL\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\SQL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\SQL\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\SQL\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\SQL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\SQL\obj\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\SQL\obj\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\SQL\bin\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\SQL\bin\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\SQL\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\SQL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\SQL\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\SQL\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\SQL\obj\Debug\SQL.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\SQL\obj\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\SQL\obj\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\SQL\bin\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\SQL\bin\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\SQL\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\SQL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\SQL\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\SQL\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\SQL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\SQL\obj\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\SQL\obj\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\SQL\bin\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\SQL\bin\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\SQL\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\SQL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\SQL\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\SQL\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\SQL\obj\Debug\SQL.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\SQL\obj\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\SQL\obj\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\SQL\bin\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\SQL\bin\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\SQL\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\SQL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\SQL\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\SQL\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\SQL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\SQL\obj\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\SQL\obj\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\SQL\bin\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\SQL\bin\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\SQL\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\SQL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\SQL\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\SQL\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\SQL\obj\Debug\SQL.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\SQL\obj\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\SQL\obj\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\SQL\bin\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\SQL\bin\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\SQL\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\SQL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\SQL\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\SQL\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\SQL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\SQL\obj\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\SQL\obj\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\SQL\bin\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\SQL\bin\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\SQL\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\SQL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\SQL\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\SQL\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\SQL\obj\Debug\SQL.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\SQL\obj\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\SQL\obj\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\SQL\bin\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\SQL\bin\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\SQL\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\SQL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\SQL\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\SQL\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\SQL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\SQL\obj\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\SQL\obj\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\SQL\bin\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\SQL\bin\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\SQL\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\SQL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\SQL\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\SQL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\SQL\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\SQL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\SQL\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\SQL\obj\Debug\SQL.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\SQL\obj\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\SQL\obj\Debug\SQL.pdb
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\SQL\bin\Debug\SQL.dll
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\SQL\bin\Debug\SQL.pdb
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\SQL\bin\Debug\PublicLib.dll
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\SQL\bin\Debug\PublicLib.pdb
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\SQL\obj\Debug\SQL.csprojResolveAssemblyReference.cache
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\SQL\obj\Debug\SQL.dll
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\SQL\obj\Debug\SQL.pdb

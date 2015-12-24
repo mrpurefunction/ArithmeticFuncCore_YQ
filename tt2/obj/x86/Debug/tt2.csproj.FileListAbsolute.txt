@@ -1,0 +1,149 @@
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\tt2\bin\Debug\tt2.exe
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\tt2\bin\Debug\tt2.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\tt2\bin\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\tt2\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\tt2\bin\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\tt2\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\tt2\obj\x86\Debug\tt2.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\tt2\obj\x86\Debug\tt2.Form1.resources
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\tt2\obj\x86\Debug\tt2.Properties.Resources.resources
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\tt2\obj\x86\Debug\tt2.csproj.GenerateResource.Cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\tt2\obj\x86\Debug\tt2.exe
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\tt2\obj\x86\Debug\tt2.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\tt2\obj\x86\Debug\tt2.exe
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\tt2\obj\x86\Debug\tt2.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\tt2\bin\Debug\tt2.exe
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\tt2\bin\Debug\tt2.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\tt2\bin\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\tt2\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\tt2\bin\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\tt2\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\tt2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\tt2\obj\x86\Debug\tt2.Form1.resources
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\tt2\obj\x86\Debug\tt2.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\tt2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\tt2\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\tt2\bin\Debug\tt2.exe
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\tt2\bin\Debug\tt2.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\tt2\bin\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\tt2\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\tt2\bin\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\tt2\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\tt2\obj\x86\Debug\tt2.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\tt2\obj\x86\Debug\tt2.Form1.resources
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\tt2\obj\x86\Debug\tt2.Properties.Resources.resources
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\tt2\obj\x86\Debug\tt2.csproj.GenerateResource.Cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\tt2\obj\x86\Debug\tt2.exe
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\tt2\obj\x86\Debug\tt2.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\tt2\obj\x86\Debug\tt2.exe
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\tt2\obj\x86\Debug\tt2.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\tt2\bin\Debug\tt2.exe
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\tt2\bin\Debug\tt2.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\tt2\bin\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\tt2\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\tt2\bin\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\tt2\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\tt2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\tt2\obj\x86\Debug\tt2.Form1.resources
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\tt2\obj\x86\Debug\tt2.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\tt2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\tt2\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\tt2\bin\Debug\tt2.exe
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\tt2\bin\Debug\tt2.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\tt2\bin\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\tt2\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\tt2\bin\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\tt2\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\tt2\obj\x86\Debug\tt2.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\tt2\obj\x86\Debug\tt2.Form1.resources
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\tt2\obj\x86\Debug\tt2.Properties.Resources.resources
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\tt2\obj\x86\Debug\tt2.csproj.GenerateResource.Cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\tt2\obj\x86\Debug\tt2.exe
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\tt2\obj\x86\Debug\tt2.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\tt2\bin\Debug\tt2.exe
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\tt2\bin\Debug\tt2.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\tt2\bin\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\tt2\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\tt2\bin\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\tt2\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\tt2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\tt2\obj\x86\Debug\tt2.Form1.resources
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\tt2\obj\x86\Debug\tt2.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\tt2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\tt2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\tt2\obj\x86\Debug\tt2.exe
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\tt2\obj\x86\Debug\tt2.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\tt2\bin\Debug\tt2.exe
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\tt2\bin\Debug\tt2.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\tt2\bin\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\tt2\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\tt2\bin\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\tt2\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\tt2\obj\x86\Debug\tt2.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\tt2\obj\x86\Debug\tt2.Form1.resources
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\tt2\obj\x86\Debug\tt2.Properties.Resources.resources
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\tt2\obj\x86\Debug\tt2.csproj.GenerateResource.Cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\tt2\obj\x86\Debug\tt2.exe
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\tt2\obj\x86\Debug\tt2.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\tt2\bin\Debug\tt2.exe
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\tt2\bin\Debug\tt2.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\tt2\bin\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\tt2\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\tt2\bin\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\tt2\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\tt2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\tt2\obj\x86\Debug\tt2.Form1.resources
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\tt2\obj\x86\Debug\tt2.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\tt2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\tt2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\tt2\obj\x86\Debug\tt2.exe
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\tt2\obj\x86\Debug\tt2.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\tt2\bin\Debug\tt2.exe
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\tt2\bin\Debug\tt2.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\tt2\bin\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\tt2\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\tt2\bin\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\tt2\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\tt2\obj\x86\Debug\tt2.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\tt2\obj\x86\Debug\tt2.Form1.resources
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\tt2\obj\x86\Debug\tt2.Properties.Resources.resources
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\tt2\obj\x86\Debug\tt2.csproj.GenerateResource.Cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\tt2\obj\x86\Debug\tt2.exe
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\tt2\obj\x86\Debug\tt2.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\tt2\bin\Debug\tt2.exe
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\tt2\bin\Debug\tt2.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\tt2\bin\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\tt2\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\tt2\bin\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\tt2\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\tt2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\tt2\obj\x86\Debug\tt2.Form1.resources
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\tt2\obj\x86\Debug\tt2.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\tt2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\tt2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\tt2\obj\x86\Debug\tt2.exe
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\tt2\obj\x86\Debug\tt2.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\tt2\bin\Debug\tt2.exe
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\tt2\bin\Debug\tt2.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\tt2\bin\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\tt2\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\tt2\bin\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\tt2\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\tt2\obj\x86\Debug\tt2.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\tt2\obj\x86\Debug\tt2.Form1.resources
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\tt2\obj\x86\Debug\tt2.Properties.Resources.resources
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\tt2\obj\x86\Debug\tt2.csproj.GenerateResource.Cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\tt2\obj\x86\Debug\tt2.exe
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\tt2\obj\x86\Debug\tt2.pdb
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\tt2\bin\Debug\tt2.exe
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\tt2\bin\Debug\tt2.pdb
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\tt2\bin\Debug\PI.dll
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\tt2\bin\Debug\PublicLib.dll
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\tt2\bin\Debug\PI.pdb
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\tt2\bin\Debug\PublicLib.pdb
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\tt2\obj\x86\Debug\tt2.csprojResolveAssemblyReference.cache
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\tt2\obj\x86\Debug\tt2.Form1.resources
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\tt2\obj\x86\Debug\tt2.Properties.Resources.resources
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\tt2\obj\x86\Debug\tt2.csproj.GenerateResource.Cache
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\tt2\obj\x86\Debug\tt2.exe
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\tt2\obj\x86\Debug\tt2.pdb

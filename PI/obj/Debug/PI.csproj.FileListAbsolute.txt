@@ -1,0 +1,221 @@
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore\PI\bin\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore\PI\bin\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore\PI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore\PI\obj\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore\PI\obj\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141125_2\PI\bin\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141125_2\PI\bin\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141125_2\PI\obj\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141125_2\PI\obj\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141125_2\PI\bin\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141125_2\PI\bin\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141125_2\PI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141125_2\PI\obj\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141125_2\PI\obj\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141203\PI\bin\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141203\PI\bin\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141203\PI\obj\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141203\PI\obj\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141203\PI\bin\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141203\PI\bin\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141203\PI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141203\PI\obj\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141203\PI\obj\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141203\PI\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141203\PI\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141205\PI\bin\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141205\PI\bin\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141205\PI\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141205\PI\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141205\PI\obj\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141205\PI\obj\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141205\PI\obj\Debug\PI.csprojResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\PI\bin\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\PI\bin\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\PI\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\PI\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\PI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\PI\obj\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\PI\obj\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\PI\bin\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\PI\bin\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\PI\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\PI\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\PI\obj\Debug\PI.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\PI\obj\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\PI\obj\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\PI\bin\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\PI\bin\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\PI\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\PI\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\PI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\PI\obj\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\PI\obj\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\PI\bin\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\PI\bin\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\PI\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\PI\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\PI\obj\Debug\PI.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\PI\obj\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\PI\obj\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\PI\bin\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\PI\bin\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\PI\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\PI\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\PI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\PI\obj\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\PI\obj\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\PI\bin\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\PI\bin\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\PI\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\PI\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\PI\obj\Debug\PI.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\PI\obj\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\PI\obj\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\PI\bin\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\PI\bin\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\PI\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\PI\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\PI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\PI\obj\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\PI\obj\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\PI\bin\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\PI\bin\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\PI\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\PI\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\PI\obj\Debug\PI.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\PI\obj\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\PI\obj\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\PI\bin\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\PI\bin\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\PI\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\PI\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\PI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\PI\obj\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\PI\obj\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\PI\bin\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\PI\bin\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\PI\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\PI\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\PI\obj\Debug\PI.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\PI\obj\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\PI\obj\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\PI\bin\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\PI\bin\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\PI\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\PI\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\PI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\PI\obj\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\PI\obj\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\PI\bin\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\PI\bin\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\PI\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\PI\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\PI\obj\Debug\PI.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\PI\obj\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\PI\obj\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\PI\bin\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\PI\bin\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\PI\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\PI\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\PI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\PI\obj\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\PI\obj\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\PI\bin\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\PI\bin\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\PI\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\PI\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\PI\obj\Debug\PI.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\PI\obj\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\PI\obj\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\PI\bin\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\PI\bin\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\PI\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\PI\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\PI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\PI\obj\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\PI\obj\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\PI\bin\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\PI\bin\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\PI\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\PI\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\PI\obj\Debug\PI.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\PI\obj\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\PI\obj\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\PI\bin\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\PI\bin\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\PI\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\PI\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\PI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\PI\obj\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\PI\obj\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\PI\bin\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\PI\bin\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\PI\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\PI\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\PI\obj\Debug\PI.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\PI\obj\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\PI\obj\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\PI\bin\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\PI\bin\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\PI\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\PI\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\PI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\PI\obj\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\PI\obj\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\PI\bin\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\PI\bin\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\PI\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\PI\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\PI\obj\Debug\PI.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\PI\obj\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\PI\obj\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\PI\bin\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\PI\bin\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\PI\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\PI\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\PI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\PI\obj\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\PI\obj\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\PI\bin\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\PI\bin\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\PI\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\PI\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\PI\obj\Debug\PI.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\PI\obj\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\PI\obj\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\PI\bin\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\PI\bin\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\PI\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\PI\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\PI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\PI\obj\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\PI\obj\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\PI\bin\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\PI\bin\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\PI\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\PI\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\PI\obj\Debug\PI.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\PI\obj\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\PI\obj\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\PI\bin\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\PI\bin\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\PI\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\PI\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\PI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\PI\obj\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\PI\obj\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\PI\bin\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\PI\bin\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\PI\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\PI\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\PI\obj\Debug\PI.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\PI\obj\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\PI\obj\Debug\PI.pdb
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\PI\bin\Debug\PI.dll
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\PI\bin\Debug\PI.pdb
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\PI\bin\Debug\PublicLib.dll
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\PI\bin\Debug\PublicLib.pdb
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\PI\obj\Debug\PI.csprojResolveAssemblyReference.cache
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\PI\obj\Debug\PI.dll
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\PI\obj\Debug\PI.pdb

@@ -1,0 +1,731 @@
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore\LogicFuncCore\bin\Debug\LogicFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore\LogicFuncCore\bin\Debug\LogicFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore\LogicFuncCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore\LogicFuncCore\obj\Debug\LogicFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore\LogicFuncCore\obj\Debug\LogicFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore\LogicFuncCore\bin\Debug\ArithmeticFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore\LogicFuncCore\bin\Debug\ArithmeticFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore\LogicFuncCore\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore\LogicFuncCore\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141125_2\LogicFuncCore\bin\Debug\LogicFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141125_2\LogicFuncCore\bin\Debug\LogicFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141125_2\LogicFuncCore\bin\Debug\ArithmeticFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141125_2\LogicFuncCore\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141125_2\LogicFuncCore\bin\Debug\ArithmeticFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141125_2\LogicFuncCore\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141125_2\LogicFuncCore\obj\Debug\LogicFuncCore.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141125_2\LogicFuncCore\obj\Debug\LogicFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141125_2\LogicFuncCore\obj\Debug\LogicFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141125_2\LogicFuncCore\bin\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141125_2\LogicFuncCore\bin\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141125_2\LogicFuncCore\bin\Debug\LogicFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141125_2\LogicFuncCore\bin\Debug\LogicFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141125_2\LogicFuncCore\bin\Debug\ArithmeticFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141125_2\LogicFuncCore\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141125_2\LogicFuncCore\bin\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141125_2\LogicFuncCore\bin\Debug\ArithmeticFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141125_2\LogicFuncCore\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141125_2\LogicFuncCore\bin\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141125_2\LogicFuncCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141125_2\LogicFuncCore\obj\Debug\LogicFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141125_2\LogicFuncCore\obj\Debug\LogicFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141203\LogicFuncCore\bin\Debug\LogicFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141203\LogicFuncCore\bin\Debug\LogicFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141203\LogicFuncCore\bin\Debug\ArithmeticFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141203\LogicFuncCore\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141203\LogicFuncCore\bin\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141203\LogicFuncCore\bin\Debug\ArithmeticFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141203\LogicFuncCore\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141203\LogicFuncCore\bin\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141203\LogicFuncCore\obj\Debug\LogicFuncCore.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141203\LogicFuncCore\obj\Debug\LogicFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141203\LogicFuncCore\obj\Debug\LogicFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141203\LogicFuncCore\bin\Debug\LogicFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141203\LogicFuncCore\bin\Debug\LogicFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141203\LogicFuncCore\bin\Debug\ArithmeticFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141203\LogicFuncCore\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141203\LogicFuncCore\bin\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141203\LogicFuncCore\bin\Debug\ArithmeticFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141203\LogicFuncCore\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141203\LogicFuncCore\bin\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141203\LogicFuncCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141203\LogicFuncCore\obj\Debug\LogicFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141203\LogicFuncCore\obj\Debug\LogicFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141205\LogicFuncCore\bin\Debug\LogicFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141205\LogicFuncCore\bin\Debug\LogicFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141205\LogicFuncCore\bin\Debug\ArithmeticFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141205\LogicFuncCore\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141205\LogicFuncCore\bin\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141205\LogicFuncCore\bin\Debug\ArithmeticFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141205\LogicFuncCore\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141205\LogicFuncCore\bin\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141205\LogicFuncCore\obj\Debug\LogicFuncCore.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141205\LogicFuncCore\obj\Debug\LogicFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141205\LogicFuncCore\obj\Debug\LogicFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\LogicFuncCore\bin\Debug\LogicFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\LogicFuncCore\bin\Debug\LogicFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\LogicFuncCore\bin\Debug\ArithmeticFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\LogicFuncCore\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\LogicFuncCore\bin\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\LogicFuncCore\bin\Debug\ArithmeticFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\LogicFuncCore\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\LogicFuncCore\bin\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\LogicFuncCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\LogicFuncCore\obj\Debug\LogicFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\LogicFuncCore\obj\Debug\LogicFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\LogicFuncCore\bin\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\LogicFuncCore\bin\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141205\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\LogicFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\LogicFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\ArithmeticFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\ArithmeticFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\LogicFuncCore\obj\Debug\LogicFuncCore.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\LogicFuncCore\obj\Debug\LogicFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141207\LogicFuncCore\obj\Debug\LogicFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\LogicFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\LogicFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\ArithmeticFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\ArithmeticFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\LogicFuncCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\LogicFuncCore\obj\Debug\LogicFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141207\LogicFuncCore\obj\Debug\LogicFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\LogicFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\LogicFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\ArithmeticFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\ArithmeticFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\LogicFuncCore\obj\Debug\LogicFuncCore.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\LogicFuncCore\obj\Debug\LogicFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141210\LogicFuncCore\obj\Debug\LogicFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\LogicFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\LogicFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\ArithmeticFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\ArithmeticFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\LogicFuncCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\LogicFuncCore\obj\Debug\LogicFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141210\LogicFuncCore\obj\Debug\LogicFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\LogicFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\LogicFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\ArithmeticFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\ArithmeticFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\LogicFuncCore\obj\Debug\LogicFuncCore.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\LogicFuncCore\obj\Debug\LogicFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141213\LogicFuncCore\obj\Debug\LogicFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\LogicFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\LogicFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\ArithmeticFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\ArithmeticFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\LogicFuncCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\LogicFuncCore\obj\Debug\LogicFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141213\LogicFuncCore\obj\Debug\LogicFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\LogicFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\LogicFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\ArithmeticFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\ArithmeticFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\LogicFuncCore\obj\Debug\LogicFuncCore.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\LogicFuncCore\obj\Debug\LogicFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215\LogicFuncCore\obj\Debug\LogicFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\LogicFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\LogicFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\ArithmeticFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\ArithmeticFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\LogicFuncCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\LogicFuncCore\obj\Debug\LogicFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215\LogicFuncCore\obj\Debug\LogicFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\LogicFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\LogicFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\ArithmeticFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\ArithmeticFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\LogicFuncCore\obj\Debug\LogicFuncCore.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\LogicFuncCore\obj\Debug\LogicFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141215_2\LogicFuncCore\obj\Debug\LogicFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\LogicFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\LogicFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\ArithmeticFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\ArithmeticFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\LogicFuncCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\LogicFuncCore\obj\Debug\LogicFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141215_2\LogicFuncCore\obj\Debug\LogicFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\LogicFuncCore\bin\Debug\LogicFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\LogicFuncCore\bin\Debug\LogicFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\LogicFuncCore\bin\Debug\ArithmeticFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\LogicFuncCore\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\LogicFuncCore\bin\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\LogicFuncCore\bin\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\LogicFuncCore\bin\Debug\ArithmeticFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\LogicFuncCore\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\LogicFuncCore\bin\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\LogicFuncCore\bin\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\LogicFuncCore\obj\Debug\LogicFuncCore.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\LogicFuncCore\obj\Debug\LogicFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141217\LogicFuncCore\obj\Debug\LogicFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\LogicFuncCore\bin\Debug\LogicFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\LogicFuncCore\bin\Debug\LogicFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\LogicFuncCore\bin\Debug\ArithmeticFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\LogicFuncCore\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\LogicFuncCore\bin\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\LogicFuncCore\bin\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\LogicFuncCore\bin\Debug\ArithmeticFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\LogicFuncCore\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\LogicFuncCore\bin\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\LogicFuncCore\bin\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\LogicFuncCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\LogicFuncCore\obj\Debug\LogicFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218\LogicFuncCore\obj\Debug\LogicFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\LogicFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\LogicFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\ArithmeticFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\ArithmeticFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\LogicFuncCore\obj\Debug\LogicFuncCore.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\LogicFuncCore\obj\Debug\LogicFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141218_2\LogicFuncCore\obj\Debug\LogicFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\LogicFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\LogicFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\ArithmeticFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\ArithmeticFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\LogicFuncCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\LogicFuncCore\obj\Debug\LogicFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141218_2\LogicFuncCore\obj\Debug\LogicFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\LogicFuncCore\bin\Debug\LogicFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\LogicFuncCore\bin\Debug\LogicFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\LogicFuncCore\bin\Debug\ArithmeticFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\LogicFuncCore\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\LogicFuncCore\bin\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\LogicFuncCore\bin\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\LogicFuncCore\bin\Debug\ArithmeticFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\LogicFuncCore\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\LogicFuncCore\bin\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\LogicFuncCore\bin\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\LogicFuncCore\obj\Debug\LogicFuncCore.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\LogicFuncCore\obj\Debug\LogicFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141227\LogicFuncCore\obj\Debug\LogicFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\LogicFuncCore\bin\Debug\LogicFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\LogicFuncCore\bin\Debug\LogicFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\LogicFuncCore\bin\Debug\ArithmeticFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\LogicFuncCore\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\LogicFuncCore\bin\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\LogicFuncCore\bin\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\LogicFuncCore\bin\Debug\ArithmeticFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\LogicFuncCore\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\LogicFuncCore\bin\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\LogicFuncCore\bin\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\LogicFuncCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\LogicFuncCore\obj\Debug\LogicFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20141228\LogicFuncCore\obj\Debug\LogicFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\LogicFuncCore\bin\Debug\LogicFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\LogicFuncCore\bin\Debug\LogicFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\LogicFuncCore\bin\Debug\ArithmeticFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\LogicFuncCore\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\LogicFuncCore\bin\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\LogicFuncCore\bin\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\LogicFuncCore\bin\Debug\ArithmeticFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\LogicFuncCore\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\LogicFuncCore\bin\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\LogicFuncCore\bin\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\LogicFuncCore\obj\Debug\LogicFuncCore.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\LogicFuncCore\obj\Debug\LogicFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20141229\LogicFuncCore\obj\Debug\LogicFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\LogicFuncCore\bin\Debug\LogicFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\LogicFuncCore\bin\Debug\LogicFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\LogicFuncCore\bin\Debug\ArithmeticFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\LogicFuncCore\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\LogicFuncCore\bin\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\LogicFuncCore\bin\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\LogicFuncCore\bin\Debug\ArithmeticFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\LogicFuncCore\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\LogicFuncCore\bin\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\LogicFuncCore\bin\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\LogicFuncCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\LogicFuncCore\obj\Debug\LogicFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150106\LogicFuncCore\obj\Debug\LogicFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\LogicFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\LogicFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\ArithmeticFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\ArithmeticFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\LogicFuncCore\obj\Debug\LogicFuncCore.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\LogicFuncCore\obj\Debug\LogicFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150112\LogicFuncCore\obj\Debug\LogicFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\LogicFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\LogicFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\ArithmeticFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\ArithmeticFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\LogicFuncCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\LogicFuncCore\obj\Debug\LogicFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150112\LogicFuncCore\obj\Debug\LogicFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\LogicFuncCore\bin\Debug\LogicFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\LogicFuncCore\bin\Debug\LogicFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\LogicFuncCore\bin\Debug\ArithmeticFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\LogicFuncCore\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\LogicFuncCore\bin\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\LogicFuncCore\bin\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\LogicFuncCore\bin\Debug\ArithmeticFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\LogicFuncCore\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\LogicFuncCore\bin\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\LogicFuncCore\bin\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\LogicFuncCore\obj\Debug\LogicFuncCore.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\LogicFuncCore\obj\Debug\LogicFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150203\LogicFuncCore\obj\Debug\LogicFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\LogicFuncCore\bin\Debug\LogicFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\LogicFuncCore\bin\Debug\LogicFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\LogicFuncCore\bin\Debug\ArithmeticFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\LogicFuncCore\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\LogicFuncCore\bin\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\LogicFuncCore\bin\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\LogicFuncCore\bin\Debug\ArithmeticFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\LogicFuncCore\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\LogicFuncCore\bin\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\LogicFuncCore\bin\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\LogicFuncCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\LogicFuncCore\obj\Debug\LogicFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150304\LogicFuncCore\obj\Debug\LogicFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\LogicFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\LogicFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\ArithmeticFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\ArithmeticFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\LogicFuncCore\obj\Debug\LogicFuncCore.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\LogicFuncCore\obj\Debug\LogicFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150306_2\LogicFuncCore\obj\Debug\LogicFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\LogicFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\LogicFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\ArithmeticFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\PublicLib.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\SQL.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\PI.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\ArithmeticFuncCore.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\PublicLib.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\SQL.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\PI.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\LogicFuncCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\LogicFuncCore\obj\Debug\LogicFuncCore.dll
+C:\Documents and Settings\Administrator\桌面\ZhiQi\yueqing\ArithmeticFuncCore_20150306_2\LogicFuncCore\obj\Debug\LogicFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\bin\Debug\LogicFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\bin\Debug\LogicFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\bin\Debug\ArithmeticFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\bin\Debug\PublicLib.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\bin\Debug\SQL.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\bin\Debug\PI.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\bin\Debug\ArithmeticFuncCore.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\bin\Debug\PublicLib.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\bin\Debug\SQL.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\bin\Debug\PI.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\obj\Debug\LogicFuncCore.csprojResolveAssemblyReference.cache
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\obj\Debug\LogicFuncCore.dll
+E:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\obj\Debug\LogicFuncCore.pdb
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\bin\Debug\LogicFuncCore.dll
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\bin\Debug\LogicFuncCore.pdb
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\bin\Debug\ArithmeticFuncCore.dll
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\bin\Debug\PublicLib.dll
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\bin\Debug\SQL.dll
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\bin\Debug\PI.dll
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\bin\Debug\ArithmeticFuncCore.pdb
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\bin\Debug\PublicLib.pdb
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\bin\Debug\SQL.pdb
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\bin\Debug\PI.pdb
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\obj\Debug\LogicFuncCore.csprojResolveAssemblyReference.cache
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\obj\Debug\LogicFuncCore.dll
+D:\Env_SQL_XLS\ArithmeticFuncCore_20150512\LogicFuncCore\obj\Debug\LogicFuncCore.pdb
